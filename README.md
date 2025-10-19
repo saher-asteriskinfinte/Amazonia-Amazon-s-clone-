@@ -19,3 +19,7 @@ It’s **not responsive** and does **not include JavaScript** — it’s focused
 - **HTML5** – for structure and content  
 - **CSS3** – for styling and layout  
 
+---
+
+👩‍💻 Author
+Saher Nawaz
