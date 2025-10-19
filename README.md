@@ -21,5 +21,5 @@ It’s **not responsive** and does **not include JavaScript** — it’s focused
 
 ---
 
-👩‍💻 Author
+👩‍💻 Author -
 Saher Nawaz
